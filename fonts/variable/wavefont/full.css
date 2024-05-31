@@ -1,8 +1,0 @@
-/* wavefont-fallback-full-normal */
-@font-face {
-  font-family: 'Wavefont Variable';
-  font-style: normal;
-  font-display: swap;
-  font-weight: 4 1000;
-  src: url(./files/wavefont-fallback-full-normal.woff2) format('woff2-variations');
-}
